@@ -1,2 +1,6 @@
 ipykernel
-jupyterlab
+#jupyterlab
+langchain_groq
+python-dotenv
+chromadb
+langchain_community
